@@ -8,6 +8,53 @@ import IMG5 from '../../assets/img-5.png'
 import IMG6 from '../../assets/img-6.png'
 
 
+/*Do not use the Images in Production*/
+
+const data = [
+  {
+    id: 1, 
+    image: IMG1,
+    title: "Finanacial Analysis Dashboard",
+    github: '',
+    demo: ''
+  },
+  {
+    id: 2,
+    image: IMG2,
+    title: "",
+    github: '',
+    demo: ''
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: "",
+    github: '',
+    demo: ''
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: "",
+    github: '',
+    demo: ''
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: "",
+    github: '',
+    demo: ''
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: "",
+    github: '',
+    demo: ''
+  }
+]
+
 const portfolio = () => {
   return (
     <section id="portfolio">
@@ -15,72 +62,22 @@ const portfolio = () => {
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG1} alt="" />
-          </div>
-          <h3>This is a Portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/JunayedMiah?tab=repositories" className='btn' target="_blank" rel="noopener noreferrer">Github</a>
-            <a href="https://app.powerbi.com/links/a5t6TBgv-L?ctid=fcdea10d-7405-4c5e-b56d-a124efd008cd&pbi_source=linkShare" className='btn btn-primary' target="_blank" rel="noopener noreferrer">Live Demo</a>
-          </div>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG2} alt="" />
-          </div>
-          <h3>This is a Portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/JunayedMiah?tab=repositories" className='btn' target="_blank" rel="noopener noreferrer">Github</a>
-            <a href="https://app.powerbi.com/links/a5t6TBgv-L?ctid=fcdea10d-7405-4c5e-b56d-a124efd008cd&pbi_source=linkShare" className='btn btn-primary' target="_blank" rel="noopener noreferrer">Live Demo</a>
-          </div>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG3} alt="" />
-          </div>
-          <h3>This is a Portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/JunayedMiah?tab=repositories" className='btn' target="_blank" rel="noopener noreferrer">Github</a>
-            <a href="https://app.powerbi.com/links/a5t6TBgv-L?ctid=fcdea10d-7405-4c5e-b56d-a124efd008cd&pbi_source=linkShare" className='btn btn-primary' target="_blank" rel="noopener noreferrer">Live Demo</a>
-          </div>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG4} alt="" />
-          </div>
-          <h3>This is a Portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/JunayedMiah?tab=repositories" className='btn' target="_blank" rel="noopener noreferrer">Github</a>
-            <a href="https://app.powerbi.com/links/a5t6TBgv-L?ctid=fcdea10d-7405-4c5e-b56d-a124efd008cd&pbi_source=linkShare" className='btn btn-primary' target="_blank" rel="noopener noreferrer">Live Demo</a>
-          </div>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG5} alt="" />
-          </div>
-          <h3>This is a Portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/JunayedMiah?tab=repositories" className='btn' target="_blank" rel="noopener noreferrer">Github</a>
-            <a href="https://app.powerbi.com/links/a5t6TBgv-L?ctid=fcdea10d-7405-4c5e-b56d-a124efd008cd&pbi_source=linkShare" className='btn btn-primary' target="_blank" rel="noopener noreferrer">Live Demo</a>
-          </div>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG6} alt="" />
-          </div>
-          <h3>This is a Portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/JunayedMiah?tab=repositories" className='btn' target="_blank" rel="noopener noreferrer">Github</a>
-            <a href="https://app.powerbi.com/links/a5t6TBgv-L?ctid=fcdea10d-7405-4c5e-b56d-a124efd008cd&pbi_source=linkShare" className='btn btn-primary' target="_blank" rel="noopener noreferrer">Live Demo</a>
-          </div>
-        </article>
-
+        {
+          data.map(({id, image, title, github, demo}) => {
+            return (
+              <article key={id} className='portfolio__item'>
+                <div className="portfolio__item-image">
+                  <img src={image} alt={title} />
+                </div>
+                <h3>{title}</h3>
+                <div className="portfolio__item-cta">
+                  <a href={github} className='btn' target="_blank" rel="noopener noreferrer">Github</a>
+                  <a href={demo} className='btn btn-primary' target="_blank" rel="noopener noreferrer">Live Demo</a>
+                </div>
+              </article>
+            )
+          })
+        }
       </div>
     </section>
   )
