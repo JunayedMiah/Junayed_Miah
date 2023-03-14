@@ -1,22 +1,24 @@
 {
-  "files": {
-    "main.css": "/static/css/main.aeef9470.css",
-    "main.js": "/static/js/main.b93a64f1.js",
-    "static/media/img-1.png": "/static/media/img-1.77e4a4744938eab32566.png",
-    "static/media/img-2.png": "/static/media/img-2.19cc65ca39f0a6a0c4e6.png",
-    "static/media/me-about.jpg": "/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/ridoy.jpg": "/static/media/ridoy.466964c7b15d315c4998.jpg",
-    "static/media/img-5.png": "/static/media/img-5.4551f9dbd2ef3d5d793f.png",
-    "static/media/img-3.png": "/static/media/img-3.80d3daa201f539e86fa5.png",
-    "static/media/CV.pdf": "/static/media/CV.d7caed8ff6bbb0bee689.pdf",
-    "static/media/img-4.png": "/static/media/img-4.4bc904a0a3c346ba5673.png",
-    "static/media/img-6.png": "/static/media/img-6.fb685c4725cb636e1614.png",
-    "index.html": "/index.html",
-    "main.aeef9470.css.map": "/static/css/main.aeef9470.css.map",
-    "main.b93a64f1.js.map": "/static/js/main.b93a64f1.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.aeef9470.css",
-    "static/js/main.b93a64f1.js"
-  ]
+  "main.css": "/Junayed_Miah/static/css/main.d5da93fa.chunk.css",
+  "main.js": "/Junayed_Miah/static/js/main.19969775.chunk.js",
+  "main.js.map": "/Junayed_Miah/static/js/main.19969775.chunk.js.map",
+  "static/css/1.8e9990be.chunk.css": "/Junayed_Miah/static/css/1.8e9990be.chunk.css",
+  "static/js/1.2abacf67.chunk.js": "/Junayed_Miah/static/js/1.2abacf67.chunk.js",
+  "static/js/1.2abacf67.chunk.js.map": "/Junayed_Miah/static/js/1.2abacf67.chunk.js.map",
+  "runtime~main.js": "/Junayed_Miah/static/js/runtime~main.0ae8266d.js",
+  "runtime~main.js.map": "/Junayed_Miah/static/js/runtime~main.0ae8266d.js.map",
+  "static/media/CV.pdf": "/Junayed_Miah/static/media/CV.a9787604.pdf",
+  "static/media/ridoy.jpg": "/Junayed_Miah/static/media/ridoy.479bf96b.jpg",
+  "static/media/me-about.jpg": "/Junayed_Miah/static/media/me-about.7d1fe24b.jpg",
+  "static/media/img-1.png": "/Junayed_Miah/static/media/img-1.e1ee86df.png",
+  "static/media/img-2.png": "/Junayed_Miah/static/media/img-2.c54eb859.png",
+  "static/media/img-3.png": "/Junayed_Miah/static/media/img-3.97431b1d.png",
+  "static/media/img-4.png": "/Junayed_Miah/static/media/img-4.bde72a06.png",
+  "static/media/img-5.png": "/Junayed_Miah/static/media/img-5.bb36cce3.png",
+  "static/media/img-6.png": "/Junayed_Miah/static/media/img-6.f4532e71.png",
+  "static/css/main.d5da93fa.chunk.css.map": "/Junayed_Miah/static/css/main.d5da93fa.chunk.css.map",
+  "static/css/1.8e9990be.chunk.css.map": "/Junayed_Miah/static/css/1.8e9990be.chunk.css.map",
+  "index.html": "/Junayed_Miah/index.html",
+  "precache-manifest.f119bf4ed9b7171383f9846838cc9b34.js": "/Junayed_Miah/precache-manifest.f119bf4ed9b7171383f9846838cc9b34.js",
+  "service-worker.js": "/Junayed_Miah/service-worker.js"
 }
