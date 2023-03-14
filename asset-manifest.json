@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Junayed_Miah/static/css/main.aeef9470.css",
-    "main.js": "/Junayed_Miah/static/js/main.d1982e92.js",
-    "static/media/img-1.png": "/Junayed_Miah/static/media/img-1.77e4a4744938eab32566.png",
-    "static/media/img-2.png": "/Junayed_Miah/static/media/img-2.19cc65ca39f0a6a0c4e6.png",
-    "static/media/me-about.jpg": "/Junayed_Miah/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/ridoy.jpg": "/Junayed_Miah/static/media/ridoy.466964c7b15d315c4998.jpg",
-    "static/media/img-5.png": "/Junayed_Miah/static/media/img-5.4551f9dbd2ef3d5d793f.png",
-    "static/media/img-3.png": "/Junayed_Miah/static/media/img-3.80d3daa201f539e86fa5.png",
-    "static/media/CV.pdf": "/Junayed_Miah/static/media/CV.d7caed8ff6bbb0bee689.pdf",
-    "static/media/img-4.png": "/Junayed_Miah/static/media/img-4.4bc904a0a3c346ba5673.png",
-    "static/media/img-6.png": "/Junayed_Miah/static/media/img-6.fb685c4725cb636e1614.png",
-    "index.html": "/Junayed_Miah/index.html",
-    "main.aeef9470.css.map": "/Junayed_Miah/static/css/main.aeef9470.css.map",
-    "main.d1982e92.js.map": "/Junayed_Miah/static/js/main.d1982e92.js.map"
+    "main.css": "/static/css/main.aeef9470.css",
+    "main.js": "/static/js/main.b93a64f1.js",
+    "static/media/img-1.png": "/static/media/img-1.77e4a4744938eab32566.png",
+    "static/media/img-2.png": "/static/media/img-2.19cc65ca39f0a6a0c4e6.png",
+    "static/media/me-about.jpg": "/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/ridoy.jpg": "/static/media/ridoy.466964c7b15d315c4998.jpg",
+    "static/media/img-5.png": "/static/media/img-5.4551f9dbd2ef3d5d793f.png",
+    "static/media/img-3.png": "/static/media/img-3.80d3daa201f539e86fa5.png",
+    "static/media/CV.pdf": "/static/media/CV.d7caed8ff6bbb0bee689.pdf",
+    "static/media/img-4.png": "/static/media/img-4.4bc904a0a3c346ba5673.png",
+    "static/media/img-6.png": "/static/media/img-6.fb685c4725cb636e1614.png",
+    "index.html": "/index.html",
+    "main.aeef9470.css.map": "/static/css/main.aeef9470.css.map",
+    "main.b93a64f1.js.map": "/static/js/main.b93a64f1.js.map"
   },
   "entrypoints": [
     "static/css/main.aeef9470.css",
-    "static/js/main.d1982e92.js"
+    "static/js/main.b93a64f1.js"
   ]
 }
