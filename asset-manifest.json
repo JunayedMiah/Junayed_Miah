@@ -1,13 +1,13 @@
 {
   "main.css": "/Junayed_Miah/static/css/main.d5da93fa.chunk.css",
-  "main.js": "/Junayed_Miah/static/js/main.19969775.chunk.js",
-  "main.js.map": "/Junayed_Miah/static/js/main.19969775.chunk.js.map",
+  "main.js": "/Junayed_Miah/static/js/main.01513362.chunk.js",
+  "main.js.map": "/Junayed_Miah/static/js/main.01513362.chunk.js.map",
   "static/css/1.8e9990be.chunk.css": "/Junayed_Miah/static/css/1.8e9990be.chunk.css",
   "static/js/1.2abacf67.chunk.js": "/Junayed_Miah/static/js/1.2abacf67.chunk.js",
   "static/js/1.2abacf67.chunk.js.map": "/Junayed_Miah/static/js/1.2abacf67.chunk.js.map",
   "runtime~main.js": "/Junayed_Miah/static/js/runtime~main.0ae8266d.js",
   "runtime~main.js.map": "/Junayed_Miah/static/js/runtime~main.0ae8266d.js.map",
-  "static/media/CV.pdf": "/Junayed_Miah/static/media/CV.a9787604.pdf",
+  "static/media/Curriculum.pdf": "/Junayed_Miah/static/media/Curriculum.cd20c945.pdf",
   "static/media/ridoy.jpg": "/Junayed_Miah/static/media/ridoy.479bf96b.jpg",
   "static/media/me-about.jpg": "/Junayed_Miah/static/media/me-about.7d1fe24b.jpg",
   "static/media/img-1.png": "/Junayed_Miah/static/media/img-1.e1ee86df.png",
@@ -19,6 +19,6 @@
   "static/css/main.d5da93fa.chunk.css.map": "/Junayed_Miah/static/css/main.d5da93fa.chunk.css.map",
   "static/css/1.8e9990be.chunk.css.map": "/Junayed_Miah/static/css/1.8e9990be.chunk.css.map",
   "index.html": "/Junayed_Miah/index.html",
-  "precache-manifest.f119bf4ed9b7171383f9846838cc9b34.js": "/Junayed_Miah/precache-manifest.f119bf4ed9b7171383f9846838cc9b34.js",
+  "precache-manifest.4a1620c21e8b457fb4a2211c650fb1ab.js": "/Junayed_Miah/precache-manifest.4a1620c21e8b457fb4a2211c650fb1ab.js",
   "service-worker.js": "/Junayed_Miah/service-worker.js"
 }

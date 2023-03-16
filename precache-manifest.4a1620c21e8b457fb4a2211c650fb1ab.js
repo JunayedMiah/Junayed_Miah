@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1996977554760d7ba6d3",
+    "revision": "01513362f431b20f2fb6",
     "url": "/Junayed_Miah/static/css/main.d5da93fa.chunk.css"
   },
   {
-    "revision": "1996977554760d7ba6d3",
-    "url": "/Junayed_Miah/static/js/main.19969775.chunk.js"
+    "revision": "01513362f431b20f2fb6",
+    "url": "/Junayed_Miah/static/js/main.01513362.chunk.js"
   },
   {
     "revision": "2abacf679992562afa32",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/Junayed_Miah/static/js/runtime~main.0ae8266d.js"
   },
   {
-    "revision": "a97876048a7239da7ec16299da33a2a9",
-    "url": "/Junayed_Miah/static/media/CV.a9787604.pdf"
+    "revision": "cd20c945b91c0077178779a9e167318e",
+    "url": "/Junayed_Miah/static/media/Curriculum.cd20c945.pdf"
   },
   {
     "revision": "479bf96bf49864a56166a02c759ead81",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/Junayed_Miah/static/media/img-6.f4532e71.png"
   },
   {
-    "revision": "efb57aca6dd10300253e8856c29930fe",
+    "revision": "4f68db91bd79687b115835f42bf7f33b",
     "url": "/Junayed_Miah/index.html"
   }
 ];
